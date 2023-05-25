@@ -30,7 +30,7 @@ class Footer extends React.Component {
                             Ho Chi Minh City
                         </p>
                         <p className="text-blue font-weight-semi font-14px">
-                            0903784019
+                            0947072684
                         </p>
                     </Col>
                 </Row>
